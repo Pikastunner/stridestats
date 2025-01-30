@@ -92,7 +92,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-🔗 **Your Runs, Uncovered – Unlock Your Running Potential with StrideStats!** 🏃‍♀️📊🏆
+🔗 **StrideStats – Bringing Relay History to Life!** 🏃‍♀️📊🏆
 
 ### Changes & Improvements:
 - The app now focuses on **historical relay results** rather than user uploads.
