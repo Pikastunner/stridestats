@@ -93,7 +93,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 🔗 **StrideStats – Bringing Relay History to Life!** 🏃‍♀️📊🏆
-```
 
 ### Changes & Improvements:
 - The app now focuses on **historical relay results** rather than user uploads.
