@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stridestats/static/css/main.43776778.css",
+    "main.css": "/stridestats/static/css/main.0eb9d6d2.css",
     "main.js": "/stridestats/static/js/main.ac1f8b25.js",
     "static/js/488.82814d42.chunk.js": "/stridestats/static/js/488.82814d42.chunk.js",
     "static/media/login-background.jpg": "/stridestats/static/media/login-background.fdc582e5cda3a0d26fba.jpg",
@@ -26,12 +26,12 @@
     "static/media/logo.webp": "/stridestats/static/media/logo.c73c1bbbd80b517747d9.webp",
     "static/media/fa-v4compatibility.woff2": "/stridestats/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/stridestats/index.html",
-    "main.43776778.css.map": "/stridestats/static/css/main.43776778.css.map",
+    "main.0eb9d6d2.css.map": "/stridestats/static/css/main.0eb9d6d2.css.map",
     "main.ac1f8b25.js.map": "/stridestats/static/js/main.ac1f8b25.js.map",
     "488.82814d42.chunk.js.map": "/stridestats/static/js/488.82814d42.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43776778.css",
+    "static/css/main.0eb9d6d2.css",
     "static/js/main.ac1f8b25.js"
   ]
 }
