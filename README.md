@@ -100,3 +100,4 @@ This project is licensed under the [MIT License](LICENSE).
 - **Tech stack** simplified to just React.
 - **Usage & features** refined to match a static data visualization app.
 - **GitHub Pages deployment steps** added.
+- **Updated 22/04/2025**: Added 25t1 data. Fixed several bugs: event number was calculated incorrectly for year > 24; new pb shouldnt show if latest result == past pb; fixed incorrect 25t1 data (wrong positions, duplicate name needing a custom change)
