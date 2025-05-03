@@ -101,3 +101,4 @@ This project is licensed under the [MIT License](LICENSE).
 - **Usage & features** refined to match a static data visualization app.
 - **GitHub Pages deployment steps** added.
 - **Updated 22/04/2025**: Added 25t1 data. Fixed several bugs: event number was calculated incorrectly for year > 24; new pb shouldnt show if latest result == past pb; fixed incorrect 25t1 data (wrong positions, duplicate name needing a custom change)
+- **Updated 03/05/2025**: added pace in km/hr and min/km in relay results and player; fixed bug in group in players where all players were the same group;replace volunteers in Results page with distance
