@@ -102,3 +102,4 @@ This project is licensed under the [MIT License](LICENSE).
 - **GitHub Pages deployment steps** added.
 - **Updated 22/04/2025**: Added 25t1 data. Fixed several bugs: event number was calculated incorrectly for year > 24; new pb shouldnt show if latest result == past pb; fixed incorrect 25t1 data (wrong positions, duplicate name needing a custom change)
 - **Updated 03/05/2025**: added pace in km/hr and min/km in relay results and player; fixed bug in group in players where all players were the same group;replace volunteers in Results page with distance
+- **Updated 05/08/2025**: Added 25t2 data. Some players ran a discrepancy of laps that did not match 4. I applied Riegel's Model taking k = 1.2 for Jackie Tran, Sabrina and Heejae and k = 1.0 for Will to approximate their 4 lap results.
